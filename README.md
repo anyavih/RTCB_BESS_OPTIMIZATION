@@ -86,4 +86,4 @@ Gemini was used to help accelerate the build:
 * **Optimization Equation:** I created the optimization problem in collaboration with Gemini. I knew what objective I wanted and what constraints, and Gemini (w/ confirmation) created the appropriate equation. 
 * **Visualization:** Sped up the generation of the Plotly dashboard. Again, I told Gemini I wanted a plotly graph, what color scheme I wanted to use, and what I wanted it to look like.
 
-All of these steps were with close collaboration with myself, looking over each step and what assumptions I wanted to build in. 
+All of these creation steps were with close monitoring, looking over each step and what assumptions I wanted to build in. 
